@@ -98,10 +98,10 @@ Miku.ev.on('groups.update', async pea => {
         if (pea[0].announce == true) {
         //Miku.send5ButImg(pea[0].id, `Grop has been *Closed!* Only *Admins* can send Messages!`, `Miku Bot`, wm_fatih, [])
 
-        Miku.sendMessage(m.chat, { image: wm_fatih, caption: 'Grop has been *Closed!* Only *Admins* can send Messages!'})
+        Miku.sendMessage(m.chat, { image: wm_fatih, caption: 'Group has been *Closed!* Only *Admins* can send Messages!'})
         } else if(pea[0].announce == false) {
        // Miku.send5ButImg(pea[0].id, `Grop has been *Opened!* Now *Everyone* can send Messages!`, `Miku Bot`, wm_fatih, [])
-       Miku.sendMessage(m.chat, { image: wm_fatih, caption: 'Grop has been *Opened!* Now *Everyone* can send Messages!'})
+       Miku.sendMessage(m.chat, { image: wm_fatih, caption: 'Group has been *Opened!* Now *Everyone* can send Messages!'})
         } else if (pea[0].restrict == true) {
         //Miku.send5ButImg(pea[0].id, `Group Info modification has been *Restricted*, Now only *Admins* can edit Group Info !`, `Miku Bot`, wm_fatih, [])
         Miku.sendMessage(m.chat, { image: wm_fatih, caption: 'Group Info modification has been *Restricted*, Now only *Admins* can edit Group Info !'})
