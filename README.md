@@ -21,11 +21,21 @@
 <a href="https://github.com/FantoX001">
     <img src="(https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Shikimori-MD.visitor-badge&left_text=Total%20Repo%20Visitors)">
   </a>
+  
+  <p align="center">
+  <a href="https://github.com/FantoX001/Miku-MD">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Miku-MD.visitor-badge&left_text=Total%20Repo%20Visits">
+    
+    
+<a href="https://github.com/FantoX001">
+    <img src="(https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Shikimori-MD.visitor-badge&left_text=Total%20Repo%20Visitors)">
+  </a>
+  
 </br>
       
 </br> 
    
-## ✧✧ Temporarily little bit Maintained for bug fixes. Thank You so much guys for your love and support 💕. 
+### ✧✧ Maintained by [Fantox](https://github.com/FantoX001) for bug fixes and more improments. More features  are coming soon. Check this main repo once in week to stay updated about latest updates.
 </br></br>
   
   
