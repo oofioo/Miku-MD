@@ -7,9 +7,9 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.OwnerNumber = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.ownertag = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.Owner = ['918101187835','6591494480']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.OwnerNumber = ['918101187835','6591494480']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.ownertag = ['918101187835','6591494480']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
 global.BotName = "Miku"
 global.packname = "Miku bot"
 global.author = "By: Fantox"
@@ -59,13 +59,13 @@ global.ntilink = []
 
 global.mess = {
     jobdone: 'Job done...',
-    useradmin: 'Sorry, only *Group Admins* can use this command, *idiot* !',
+    useradmin: 'Sorry, only *Group Admins* can use this command',
     botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-    botowner: 'Only my *Owner* can use this command, stupid!',
-    grouponly: 'This command is only made for *Groups*, idiot!',
-    privateonly: 'This command is only made for *Private Chat*, idiot!',
+    botowner: 'Only *Owner* can use this command',
+    grouponly: 'This command is only made for *Groups*',
+    privateonly: 'This command is only made for *Private Chat*',
     botonly: 'Only the *Bot itself* can use this command!',
-    waiting: 'Chotto Matte...',
+    waiting: 'Please wait...',
     nolink: 'Please provide me a *link* !',
     error: 'An error occured!',
     banned: 'You are *Banned* fron using commands!',
